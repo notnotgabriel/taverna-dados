@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/taverna-dados/static/css/main.7b700a3f.css",
+    "main.js": "/taverna-dados/static/js/main.a3a817f2.js",
+    "static/js/787.3c11d32a.chunk.js": "/taverna-dados/static/js/787.3c11d32a.chunk.js",
+    "static/media/target.png": "/taverna-dados/static/media/target.a537b529f3c23f11ced3.png",
+    "index.html": "/taverna-dados/index.html",
+    "main.7b700a3f.css.map": "/taverna-dados/static/css/main.7b700a3f.css.map",
+    "main.a3a817f2.js.map": "/taverna-dados/static/js/main.a3a817f2.js.map",
+    "787.3c11d32a.chunk.js.map": "/taverna-dados/static/js/787.3c11d32a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b700a3f.css",
+    "static/js/main.a3a817f2.js"
+  ]
+}
